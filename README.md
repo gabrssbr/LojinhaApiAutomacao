@@ -1,0 +1,2 @@
+# LojinhaApiAutomacao
+teste
